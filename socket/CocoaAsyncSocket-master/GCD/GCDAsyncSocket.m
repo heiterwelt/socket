@@ -7,7 +7,13 @@
 //
 //  https://github.com/robbiehanson/CocoaAsyncSocket
 //
-
+/**
+ *  sockt=et
+ *
+ *  @param objc_arc test
+ *
+ *  @return result
+ */
 #import "GCDAsyncSocket.h"
 
 #if TARGET_OS_IPHONE
